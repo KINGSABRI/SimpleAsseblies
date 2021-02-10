@@ -1,0 +1,11 @@
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\obj\Release\TheMessageBox.csprojAssemblyReference.cache
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\obj\Release\TheMessageBox.csproj.CoreCompileInputs.cache
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\bin\Release\MessageBoxWithArgs.exe
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\bin\Release\MessageBoxWithArgs.pdb
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\bin\Release\MessageBoxWithArgs.exe.config
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\obj\Release\TheMessageBox.csproj.CopyComplete
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\bin\Release\TheMessageBox.exe.config
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\bin\Release\TheMessageBox.exe
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\bin\Release\TheMessageBox.pdb
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\obj\Release\TheMessageBox.exe
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\SimpleAsseblies\obj\Release\TheMessageBox.pdb

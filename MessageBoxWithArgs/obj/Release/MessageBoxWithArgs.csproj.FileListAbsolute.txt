@@ -1,0 +1,7 @@
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\MessageBoxWithArgs\bin\Release\MessageBoxWithArgs.exe.config
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\MessageBoxWithArgs\bin\Release\MessageBoxWithArgs.exe
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\MessageBoxWithArgs\bin\Release\MessageBoxWithArgs.pdb
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\MessageBoxWithArgs\obj\Release\MessageBoxWithArgs.csproj.CoreCompileInputs.cache
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\MessageBoxWithArgs\obj\Release\MessageBoxWithArgs.exe
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\MessageBoxWithArgs\obj\Release\MessageBoxWithArgs.pdb
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\MessageBoxWithArgs\obj\Release\MessageBoxWithArgs.csprojAssemblyReference.cache

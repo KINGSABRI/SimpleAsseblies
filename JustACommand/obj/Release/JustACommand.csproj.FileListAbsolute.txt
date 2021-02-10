@@ -1,0 +1,6 @@
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\JustACommand\bin\Release\JustACommand.exe.config
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\JustACommand\bin\Release\JustACommand.exe
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\JustACommand\bin\Release\JustACommand.pdb
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\JustACommand\obj\Release\JustACommand.csproj.CoreCompileInputs.cache
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\JustACommand\obj\Release\JustACommand.exe
+\\192.168.100.100\Sharables\CSharp\SimpleAsseblies\JustACommand\obj\Release\JustACommand.pdb
